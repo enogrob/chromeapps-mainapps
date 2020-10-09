@@ -1,0 +1,17 @@
+{
+  "name": "Facebook",
+  "description": "Access Facebook",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.facebook.com"
+    ],
+    "launch": {
+      "web_url": "https://www.facebook.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Netflix",
+  "description": "Access Netflix Homepage",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://movies.netflix.com/WiHome"
+    ],
+    "launch": {
+      "web_url": "http://movies.netflix.com/WiHome"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Carrefour Shopping",
+  "description": "Access Carrefour Shopping",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.carrefour.com.br"
+    ],
+    "launch": {
+      "web_url": "https://www.carrefour.com.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

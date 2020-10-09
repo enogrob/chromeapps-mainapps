@@ -1,0 +1,17 @@
+{
+  "name": "DropBox",
+  "description": "Access DropBox",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.dropbox.com/"
+    ],
+    "launch": {
+      "web_url": "https://www.dropbox.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

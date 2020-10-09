@@ -1,0 +1,16 @@
+{
+  "name": "Google Drive",
+  "description": "Access Google Drive.",
+  "version": "1",
+  "app": {
+    "urls": [
+      "https://drive.google.com/#my-drive"
+    ],
+    "launch": {
+      "web_url": "https://drive.google.com/#my-drive"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

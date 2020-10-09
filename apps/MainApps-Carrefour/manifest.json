@@ -1,0 +1,17 @@
+{
+  "name": "Carrefour",
+  "description": "Access Carrefour",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.carrefoursolucoes.com.br"
+    ],
+    "launch": {
+      "web_url": "https://www.carrefoursolucoes.com.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

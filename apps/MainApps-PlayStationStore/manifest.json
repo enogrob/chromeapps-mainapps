@@ -1,0 +1,17 @@
+{
+  "name": "PlayStation Store",
+  "description": "Acess PlayStation Store",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://store.playstation.com"
+    ],
+    "launch": {
+      "web_url": "https://store.playstation.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

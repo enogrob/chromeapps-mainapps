@@ -1,0 +1,17 @@
+{
+  "name": "MS Account",
+  "description": "Access MS Account",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://account.microsoft.com"
+    ],
+    "launch": {
+      "web_url": "https://account.microsoft.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
