@@ -1,0 +1,17 @@
+{
+  "name": "PayPal",
+  "description": "Access PayPal",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.paypal.com/myaccount/summary"
+    ],
+    "launch": {
+      "web_url": "https://www.paypal.com/myaccount/summary"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
