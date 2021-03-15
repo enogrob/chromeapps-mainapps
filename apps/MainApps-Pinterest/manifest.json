@@ -1,0 +1,17 @@
+{
+  "name": "Pinterest",
+  "description": "Access Pinterest",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://br.pinterest.com/"
+    ],
+    "launch": {
+      "web_url": "https://br.pinterest.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
