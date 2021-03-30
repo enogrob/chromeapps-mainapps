@@ -1,0 +1,17 @@
+{
+  "name": "AppleTv+",
+  "description": "Access AppleTv+",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.apple.com/br/apple-tv-plus/"
+    ],
+    "launch": {
+      "web_url": "https://www.apple.com/br/apple-tv-plus/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
