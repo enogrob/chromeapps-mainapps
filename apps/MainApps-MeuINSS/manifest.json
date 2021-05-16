@@ -1,0 +1,17 @@
+{
+  "name": "Meu INSS",
+  "description": "Access Meu INSS",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://meu.inss.gov.br"
+    ],
+    "launch": {
+      "web_url": "https://meu.inss.gov.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
