@@ -1,0 +1,17 @@
+{
+  "name": "YouTube",
+  "description": "Access YouTube",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.youtube.com"
+    ],
+    "launch": {
+      "web_url": "https://www.youtube.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
