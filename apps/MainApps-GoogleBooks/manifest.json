@@ -1,0 +1,17 @@
+{
+  "name": "Books",
+  "description": "Access Books",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://books.google.com.br/?hl=en&tab=rp&authuser=0"
+    ],
+    "launch": {
+      "web_url": "https://books.google.com.br/?hl=en&tab=rp&authuser=0"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

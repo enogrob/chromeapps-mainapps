@@ -1,0 +1,17 @@
+{
+  "name": "Docs",
+  "description": "Access Docs",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://docs.google.com/document/u/0/"
+    ],
+    "launch": {
+      "web_url": "https://docs.google.com/document/u/0/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

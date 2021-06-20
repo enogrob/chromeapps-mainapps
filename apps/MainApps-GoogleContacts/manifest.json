@@ -1,0 +1,17 @@
+{
+  "name": "Contacts",
+  "description": "Access Contacts",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://contacts.google.com/?hl=en"
+    ],
+    "launch": {
+      "web_url": "https://contacts.google.com/?hl=en"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

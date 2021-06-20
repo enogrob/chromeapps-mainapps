@@ -1,0 +1,17 @@
+{
+  "name": "Chat",
+  "description": "Access Chat",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://mail.google.com/chat/u/0/"
+    ],
+    "launch": {
+      "web_url": "https://mail.google.com/chat/u/0/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
