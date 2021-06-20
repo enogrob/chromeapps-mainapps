@@ -1,0 +1,17 @@
+{
+  "name": "Photos",
+  "description": "Access Photos",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://photos.google.com/?tab=rq&pageId=none&pli=1"
+    ],
+    "launch": {
+      "web_url": "https://photos.google.com/?tab=rq&pageId=none&pli=1"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
