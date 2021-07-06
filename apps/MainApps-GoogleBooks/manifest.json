@@ -5,10 +5,10 @@
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://books.google.com.br/?hl=en&tab=rp&authuser=0"
+      "https://books.google.com.br/books"
     ],
     "launch": {
-      "web_url": "https://books.google.com.br/?hl=en&tab=rp&authuser=0"
+      "web_url": "https://books.google.com.br/books"
     }
   },
   "icons": {
