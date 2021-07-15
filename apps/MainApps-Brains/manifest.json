@@ -1,0 +1,17 @@
+{
+  "name": "Brains",
+  "description": "Acess Brains",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://app.thebrain.com/brains"
+    ],
+    "launch": {
+      "web_url": "https://app.thebrain.com/brains"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
