@@ -5,10 +5,10 @@
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://app.thebrain.com/brains/0f77d37f-45fe-44a8-b98a-1a526547c8a0/thoughts/07f5f019-9f6c-481f-8940-ac57c42aa352/notes"
+      "https://app.thebrain.com/brains/a30fe16d-a887-4422-bcbe-cef320636dec/thoughts/6002ffd8-9409-44c4-9a6f-2ac1ba941444/notes"
     ],
     "launch": {
-      "web_url": "https://app.thebrain.com/brains/0f77d37f-45fe-44a8-b98a-1a526547c8a0/thoughts/07f5f019-9f6c-481f-8940-ac57c42aa352/notes"
+      "web_url": "https://app.thebrain.com/brains/a30fe16d-a887-4422-bcbe-cef320636dec/thoughts/6002ffd8-9409-44c4-9a6f-2ac1ba941444/notes"
     }
   },
   "icons": {
